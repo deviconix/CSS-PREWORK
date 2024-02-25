@@ -1,0 +1,20 @@
+.wrap {
+    background    : #808080;
+    width         : 200px;
+    height        : auto;
+    padding-left  : 30px;
+    padding-bottom: 10px;
+    padding-top   : 1px;
+
+}
+
+h1 {
+    color: white;
+}
+
+.wrap div {
+    width     : 100px;
+    height    : 100px;
+    background: #fea500;
+    margin    : 10px;
+}
