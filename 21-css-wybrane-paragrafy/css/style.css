@@ -9,3 +9,7 @@ p {
 .bg-blue {
     background: blue;
 }
+
+.bg-opacity {
+    opacity: 0.5;
+}
