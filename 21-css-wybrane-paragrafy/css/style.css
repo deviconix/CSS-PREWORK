@@ -1,7 +1,7 @@
 p {
-    width : 100px;
-    height: 100px;
-
+    width       : 100px;
+    height      : 100px;
+    background  : red;
     /*debug*/
-    border: 1px solid black;
+    /*border    : 1px solid black;/**/
 }
