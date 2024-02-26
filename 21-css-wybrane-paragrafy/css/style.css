@@ -5,3 +5,7 @@ p {
     /*debug*/
     /*border    : 1px solid black;/**/
 }
+
+.bg-blue {
+    background: blue;
+}
