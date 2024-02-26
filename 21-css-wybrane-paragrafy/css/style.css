@@ -1,0 +1,7 @@
+p {
+    width : 100px;
+    height: 100px;
+
+    /*debug*/
+    border: 1px solid black;
+}
