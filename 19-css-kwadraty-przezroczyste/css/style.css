@@ -1,0 +1,36 @@
+/* config */
+:root {
+    --color-black--rgb: 0, 0, 0;
+    --color-black     : black;
+    --bg-color        : #ffffdd;
+}
+
+/* component task*/
+.task {
+    width     : 250px;
+    background: var(--bg-color);
+}
+
+.task__item {
+    background: var(--color-black);
+    margin    : 10px;
+}
+
+/* component item*/
+.item {
+    height: 80px;
+    width : 80px;
+}
+
+/* component item modifiers */
+.item--transparency-25 {
+    background: rgba(var(--color-black--rgb), 0.25);
+}
+
+.item--transparency-50 {
+    background: rgba(var(--color-black--rgb), 0.50);
+}
+
+.item--transparency-75 {
+    background: rgba(var(--color-black--rgb), 0.75);
+}
