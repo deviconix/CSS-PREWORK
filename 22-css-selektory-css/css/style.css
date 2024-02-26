@@ -6,3 +6,7 @@ h3 {
 p {
     color: #174bdb;
 }
+
+h1+h3 {
+    color: #ebd834;
+}
